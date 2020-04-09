@@ -1,4 +1,4 @@
-	### Author: Randall Vogsland
+	### Author: @InvalidCanary
 	### Purpose: Quick and dirty script: Transfers base settings from an existing server to a target
 	### No error checking, but if server/vdir/etc doesn't exist or can't be pulled, no value will be written.
 	### Note: Uses get-clientaccessserver instead of get-clientaccessservice to account for pulling from 2010.  Will result in command deprecation warning.  No impact on functionality.
